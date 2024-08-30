@@ -28,7 +28,7 @@
 
 ![snake animation](https://github.com/1shabbirhussain/1shabbirhussain/blob/output/github-contribution-grid-snake2.svg)
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/1shabbirhussain/1shabbirhussain/output/github-contribution-grid-snake.svg" />
 ---
 [![](https://visitcount.itsvg.in/api?id=1shabbirhussain&icon=0&color=0)](https://visitcount.itsvg.in)
 
