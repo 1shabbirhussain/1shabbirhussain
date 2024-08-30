@@ -26,11 +26,6 @@
 ### 🏆 Trophies Earned
 <img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 ![snake animation](https://github.com/1shabbirhussain/1shabbirhussain/blob/output/github-contribution-grid-snake2.svg)
 
 ---
