@@ -31,7 +31,7 @@
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/1shabbirhussain/1shabbirhussain/blob/output/github-contribution-grid-snake2.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=1shabbirhussain&icon=0&color=0)](https://visitcount.itsvg.in)
