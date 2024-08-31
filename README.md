@@ -22,12 +22,17 @@
   
 ![](https://github-contributor-stats.vercel.app/api?username=1shabbirhussain&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </div>
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif?cid=ecf05e47eqe4ilha9wjwt95gr7mmc6r4b51h3ivsica63byu&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
 
 ### 🏆 Trophies Earned
 <img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=1shabbirhussain&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
