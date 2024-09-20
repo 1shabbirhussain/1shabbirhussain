@@ -29,6 +29,8 @@
 ### 🏆 Trophies Earned
 <img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
 
+[![Shabbir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1shabbirhussain&theme=react-dark)](https://github.com/1shabbirhussain/github-readme-activity-graph)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=1shabbirhussain&icon=0&color=0)](https://visitcount.itsvg.in)
 
