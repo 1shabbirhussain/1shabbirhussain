@@ -1,19 +1,26 @@
+
+<div align="center">
+ 
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Shabbir%20Hussain&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Open%20Source%20%7C%20Content%20Creator&descAlignY=55&descSize=20"/>
+ 
+ <a href="https://git.io/typing-svg">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Building+Pixel-Perfect+Mobile+Apps...;Turning+Coffee+Into+Code...;Explaining+Tech+Simply..." alt="Typing SVG" />
+ </a>
+
+ <br/>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=1shabbirhussain&style=flat-square&color=blueviolet" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/1shabbirhussain?style=flat-square&color=blue" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/1shabbirhussain?style=flat-square&color=yellow" alt="Total Stars" />
 </div>
+</div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-  <br/>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+I'm+Shabbir+Hussain;Flutter+Mobile+Developer+%F0%9F%93%B1;Open+Source+Contributor;Tech+Content+Creator" alt="Typing SVG" />
-  </a>
-  
   <p><i>"Talking is cheap. Show me the code."</i> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25" /></p>
 </div>
+
+
 
 ---
 
@@ -89,9 +96,8 @@
 
 </div>
 
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&animation=fadeIn" />
+  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&animation=fadeIn" /> -->
   <p>🚀 <b>Building the future, one commit at a time</b> 🚀</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
