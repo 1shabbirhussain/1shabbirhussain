@@ -1,40 +1,97 @@
-![Header](./github-header-image.png)
-# 💫 About Me:
-🎯 I'm currently working on Flutter Framework.<br>🌱 I’m currently learning Advanced Flutter framework and improving my skills in public speaking and content creation.<br>🤝 I’m looking to collaborate on Open-source Flutter projects and innovative mobile app solutions.<br>🛠I'm willing to target Backend as my next goal.<br>💬 Ask me about Flutter app development, best coding practices, and tips for getting started with mobile app development.<br>⚡ Fun fact I started my programming journey with Python, but it was Flutter that truly sparked my passion for mobile app development.
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shabbirhussain.00) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shabbir-hussain-445338228) 
-
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=1shabbirhussain&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/1shabbirhussain?style=flat-square&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/1shabbirhussain?style=flat-square&color=yellow" alt="Total Stars" />
+</div>
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+  <br/>
   
-![](https://github-readme-stats.vercel.app/api?username=1shabbirhussain&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/> <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=1shabbirhussain&theme=neon&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=1shabbirhussain&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
-
-### 🔝 Top Contributed Repo
-<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+I'm+Shabbir+Hussain;Flutter+Mobile+Developer+%F0%9F%93%B1;Open+Source+Contributor;Tech+Content+Creator" alt="Typing SVG" />
+  </a>
   
-![](https://github-contributor-stats.vercel.app/api?username=1shabbirhussain&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  <p><i>"Talking is cheap. Show me the code."</i> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25" /></p>
 </div>
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif?cid=ecf05e47eqe4ilha9wjwt95gr7mmc6r4b51h3ivsica63byu&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
-
-### 🏆 Trophies Earned
-<img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
-
-[![Shabbir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1shabbirhussain&theme=react-dark)](https://github.com/1shabbirhussain/github-readme-activity-graph)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=1shabbirhussain&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🚀 **About Me & Stats**
 
+<div align="center">
+  
+| **About Me** | **GitHub Stats** |
+|:---|:---|
+| 🎯 **Focus:** Flutter & System Design<br>🌱 **Learning:** Backend & Cloud<br>🤝 **Open for:** Flutter/Dart projects<br>💬 **Expertise:** Mobile Logic & UI/UX<br>⚡ **Fun Fact:** Bugs → Features → Fixed! | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1shabbirhussain&theme=neon&show_icons=true&hide_border=true&count_private=true&include_all_commits=true) |
+  
+</div>
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 **Compact Dashboard**
+
+<div align="center">
+  
+| **Top Languages** | **Activity** |
+|:---:|:---:|
+|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1shabbirhussain&theme=neon&hide_border=true&layout=compact&langs_count=6) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=1shabbirhussain&bg_color=0f1116&color=fe428e&line=fe428e&point=fe428e&area=true&hide_border=true&custom_title=Recent+Activity) |
+
+</div>
+
+---
+
+## 🛠️ **Tech Stack & Skills**
+
+<div align="center">
+
+| **Mobile Development** | **Languages** | **Backend & Database** | **Tools & Platforms** |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=flutter,dart,android,ios" title="Flutter, Dart, Android, iOS" width="100"/> | <img src="https://skillicons.dev/icons?i=js,ts,python,java" title="JavaScript, TypeScript, Python, Java" width="90"/> | <img src="https://skillicons.dev/icons?i=firebase,nodejs,mysql,mongodb" title="Firebase, Node.js, MySQL, MongoDB" width="100"/> | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" title="Git, GitHub, VS Code, Figma, Postman" width="110"/> |
+
+</div>
+
+---
+
+## 📈 **Project Highlights**
+
+<div align="center">
+  
+| **Type** | **Status** | **Tech Used** |
+|:---|:---|:---|
+| 🚀 **Production Apps** | 🔥 **Active Maintenance** | Flutter, Firebase, REST APIs |
+| 💡 **Open Source** | ⭐ **Growing Community** | Dart, Clean Architecture |
+| 📚 **Learning Projects** | 🌱 **Continuous Updates** | Node.js, Python, Databases |
+  
+</div>
+
+---
+
+## 🤝 **Connect & Collaborate**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shabbir-hussain-445338228)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1shabbirhussain)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/shabbirhussain.00)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+
+</div>
+
+---
+
+<div align="center">
+  
+## 💭 **Developer Wisdom**
+  
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" width="80%" />
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&animation=fadeIn" />
+  <p>🚀 <b>Building the future, one commit at a time</b> 🚀</p>
+</div>
