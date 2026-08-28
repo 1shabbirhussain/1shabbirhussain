@@ -71,6 +71,18 @@
 
 ---
 
+## ✍️ **Recent Medium Articles**
+
+<div align="center">
+
+<a href="https://medium.com/@001.shabbirhussain" target="_blank">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@001.shabbirhussain/0" alt="Medium Story 1" width="100%" />
+</a>
+
+</div>
+
+---
+
 ## 🤝 **Connect & Collaborate**
 
 <div align="center">
